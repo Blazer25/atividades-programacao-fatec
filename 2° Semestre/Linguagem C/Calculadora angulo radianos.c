@@ -1,4 +1,4 @@
-// ATIVIDADE 1 - Calculo - ADS - Noturno - 2o Período
+// ATIVIDADE 1 - Calculo - ADS - Noturno - 2o Período.
 
 /*
  * INTEGRANTES DO GRUPO:
