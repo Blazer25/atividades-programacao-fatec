@@ -20,7 +20,7 @@ int main()
     printf("Digite um número inteiro entre 1 e 9 \n");
     while (scanf("%d", &numeroDigitado) != 1 || numeroDigitado < 1 || numeroDigitado > 9)
     {
-        printf("Entrada inválida, digite um número inteiro: \n");
+        printf("Entrada inválida, digite um número inteiro entre 1 e 9: \n");
         while (getchar() != '\n')
             ;
     };
